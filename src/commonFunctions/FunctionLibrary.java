@@ -111,6 +111,11 @@ public static boolean verifyLogout() throws Throwable {
 		return false;
 	}
 }
+  public void add() {
+	  int a=50,b=100,c;
+	  c=a/b;
+	  System.out.println();
+  }
 }
 
 
